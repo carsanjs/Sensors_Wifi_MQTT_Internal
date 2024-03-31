@@ -41,4 +41,18 @@ Una vez cargado el código en tu placa ESP8266, observa la ejecución del mismo.
 
 ¡Eso es todo! Ahora deberías poder ejecutar el código proporcionado en tu placa Arduino sin problemas. Si encuentras algún problema, revisa la consola de Arduino IDE para obtener mensajes de error y realiza las correcciones necesarias en el código.
 
+## Screenshots
+#Dht11
+![App Screenshot](https://bconsultors.com/wp-content/uploads/2019/05/dht11_ok.jpg)
 
+#ky018
+![App Screenshot](https://alltopnotch.co.uk/wp-content/uploads/imported/0/KY-018-Photoresistor-Sensor-Module-LDR-Light-Dependant-Resistor-Arduino-AVR-PIC-362134212140-1080x1080.jpg)
+
+#MG811
+![App Screenshot](https://5.imimg.com/data5/SELLER/Default/2023/10/352213590/FS/OL/IE/68547091/mg811-carbon-dioxide-co2-sensor-module-fr-01-679-500x500.webp)
+
+#MQ7
+![App Screenshot](https://5.imimg.com/data5/OO/XV/MY-1471353/mq-7-co-gas-sensors-module-500x500.jpg)
+
+#Dht21
+![App Screenshot](https://www.makershop.de/wp-content/uploads/2015/12/dht21-dht22-aussen-outdoor-arduino-raspberry-pi-1.jpg)
